@@ -1,0 +1,12 @@
+DATABASE:
+  DRIVER: ODBC Driver 17 for SQL Server
+  HOST: 10.210.118.216\INST05
+  DATABSAE: ONENT
+  USERNAME: ONENT_PYTH
+  PASSWORD: Pyth123
+
+API:
+  ENVIRONMENT: UNIT_TEST
+  NAME: /api/imageprocessing/start_operation
+  IS_DEBUG: False
+  PORT: 7100
